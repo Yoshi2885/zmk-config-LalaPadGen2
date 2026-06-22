@@ -64,7 +64,7 @@
             bindings = <
 &kp M              &kp Y          &kp R             &kp W                  &kp P                                                      &kp X      &kp L                 &kp Q                       &kp C                       &kp SINGLE_QUOTE
 &kp K              &kp S          &kp T             &kp N                  &kp H                                                      &kp F      &kp A                 &kp O                       &kp I                       &kp E
-&mt2 LEFT_SHIFT Z  &kp D          &kp B             &kp G                  &kp J                                                      &kp V      &kp U                 &kp MINUS                   &kp COMMA                   &mt2 RIGHT_SHIFT PERIOD
+&mt2 LEFT_SHIFT Z  &kp D          &kp B             &kp G                  &kp J                                                      &kp V      &kp U                 &kp COMMA                   &kp PERIOD                  &mt2 RIGHT_SHIFT MINUS
 &mt2 LCTRL ESCAPE  &kp LWIN       &kp LEFT_ALT      &mt2 LEFT_COMMAND TAB  &lt 1 SPACE   &mt2 LEFT_SHIFT LANG2  &lt 4 LANG1           &kp ENTER  &lt 2 BACKSPACE       &mt2 RIGHT_ALT LS(LC(TAB))  &mt2 RIGHT_COMMAND LC(TAB)  &mt2 RIGHT_CONTROL SLASH
                    &kp LA(SPACE)  &kp LC(RIGHT)     &kp C_VOLUME_DOWN      &kp LC(LEFT)  &kp C_VOLUME_UP        &kp C_BRIGHTNESS_INC  &mkp MB4   &kp C_BRIGHTNESS_DEC  &mkp MB5                    &kp K_MUTE
 &mkp LCLK          &mkp RCLK      &mkp MCLK                                                                                                                            &mkp LCLK                   &mkp RCLK                   &mkp MCLK
